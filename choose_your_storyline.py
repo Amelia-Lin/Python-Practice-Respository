@@ -45,4 +45,3 @@ else:
     print('Looks like you are waiting for a miracle.  Wishing you all the best! /n the end ')
     quit()
 
-
